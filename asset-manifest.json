@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/E-comerce-website/static/js/main.c8c64507.js",
+    "static/js/787.ec704a7a.chunk.js": "/E-comerce-website/static/js/787.ec704a7a.chunk.js",
+    "static/media/cart.png": "/E-comerce-website/static/media/cart.b3243865f36d0427f67f.png",
+    "static/media/all.png": "/E-comerce-website/static/media/all.8d234801eb00ee317b3e.png",
+    "static/media/electronics.png": "/E-comerce-website/static/media/electronics.e99caa5f9c47e155ec52.png",
+    "static/media/jewelery.png": "/E-comerce-website/static/media/jewelery.35a6b311ab681420925a.png",
+    "static/media/menscloth.png": "/E-comerce-website/static/media/menscloth.a8cbd2a45ad571ebd7e9.png",
+    "static/media/samsung.jpg": "/E-comerce-website/static/media/samsung.442fcdc0e3865707e7b8.jpg",
+    "static/media/womencloth.png": "/E-comerce-website/static/media/womencloth.5ae2848b213b47dc7b80.png",
+    "static/media/wd.jpg": "/E-comerce-website/static/media/wd.3ec3d22b199730dc0757.jpg",
+    "index.html": "/E-comerce-website/index.html",
+    "main.c8c64507.js.map": "/E-comerce-website/static/js/main.c8c64507.js.map",
+    "787.ec704a7a.chunk.js.map": "/E-comerce-website/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c8c64507.js"
+  ]
+}
